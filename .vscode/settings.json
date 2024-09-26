@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "array": "c",
+        "charconv": "c",
+        "compare": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "variant": "c",
+        "insertionsort.h": "c",
+        "stdlib.h": "c",
+        "quicksort.h": "c",
+        "string.h": "c",
+        "crtdefs.h": "c"
+    }
+}
