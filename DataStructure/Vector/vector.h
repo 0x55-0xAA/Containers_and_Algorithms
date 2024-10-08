@@ -37,5 +37,4 @@
     (val) = (vec_ptr)->memberArrName[--((vec_ptr)->memberSizeName)];  \
 } while(0)
 
-
 #endif
