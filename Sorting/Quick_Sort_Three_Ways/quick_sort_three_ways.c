@@ -24,6 +24,8 @@ void __quick_sort(char *base,size_t size,size_t lo,size_t hi,int (*compar)(const
     }
     __quick_sort(base,size,lo,lt - 1,compar);
     __quick_sort(base,size,gt + 1,hi,compar); 
+
+    
 }
 
 void qsort_threeways(void *base,size_t nmemb,size_t size,int (*compar)(const void *,const void *)) {
